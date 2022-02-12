@@ -44,7 +44,7 @@ print('Predicted co2 for the corresponding weight and volume',predictedCO2)
 ```
 
 ## OUTPUT:
-![Github logo](csv.png)
+![Github logo](csv.jpeg)
 
 ## RESULT:
 Therefore the program is successfully executed to read csv file and access the data in it.
