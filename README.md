@@ -26,7 +26,7 @@ Declare variable predictedCO2 equal to regr.predict with two arguments 33300, 13
 ### Step 11:
 Print variable predictedCO2
 ## PROGRAM:
-~
+```
 #Developed by :- Manoj Guna Sundar Tella
 #Reference number:- 212221240026
 import pandas as pd
@@ -41,7 +41,7 @@ print("Cofficients: ",regr.coef_)
 print("Intercept: ",regr.intercept_)
 predictedCO2 = regr.predict([[3300,1300]])
 print('Predicted co2 for the corresponding weight and volume',predictedCO2)
-~
+```
 
 ## OUTPUT:
 ![Github logo](csv.png)
