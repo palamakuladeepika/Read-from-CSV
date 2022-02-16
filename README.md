@@ -26,8 +26,7 @@ Display the Rows.
 End the program
 ## PROGRAM:
 ```
-##Developed by:Manoj Guna Sundar Tella.
-##REGISTER NUMBER: 212221240026
+
 import pandas as pd
 df = pd.read_csv('nba.csv')
 print(df.head(10))
@@ -37,7 +36,7 @@ print("Row",len(df.axes[1]))
 ```
 
 ## OUTPUT:
-![Github logo](read.png)
+![Github logo](csv.png)
 
 ## RESULT:
 Therefore the program is successfully executed to read csv file and access the data in it.
